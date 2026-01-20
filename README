@@ -1,0 +1,69 @@
+# 👋 Olá! Eu sou Paulo
+
+<!-- Banner animado full-width -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00E5FF&text=&fontColor=00FFFF&fontSize=28" style="width: 100%;" />
+
+<!-- Typing SVG centralizado e responsivo -->
+<div style="text-align:center; width: 100%; margin: 20px 0;">
+  <a href="https://git.io/typing-svg">
+    <img 
+        src="https://readme-typing-svg.demolab.com?font=Pixelify+sans&pause=1000&color=00C3FF&width=1000&lines=Hello!+my+name+is+Paulo!;I+am+a+QA+Analysis+student.;Welcome!" 
+        alt="Typing SVG" 
+        style="width: 100%; max-width: 1000px; height: auto; display: inline-block;"
+    />
+  </a>
+</div>
+
+---
+
+## 📫 Contatos
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/paulo-avila-qa" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:paulomsnb@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/alguma9dade" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.gg/yspoleta8269" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://wa.me/5561990006998" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div style="text-align: center; margin: 20px 0;">
+  <img alt="Python" title="Python" width="50px" style="margin: 0 15px; transition: 0.3s;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Jira" title="Jira" width="50px" style="margin: 0 15px; transition: 0.3s;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" />
+  <img alt="Postman" title="Postman" width="50px" style="margin: 0 15px; transition: 0.3s;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img alt="PyCharm" title="PyCharm" width="50px" style="margin: 0 15px; transition: 0.3s;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img alt="Android Studio" title="Android Studio" width="50px" style="margin: 0 15px; transition: 0.3s;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+  <img alt="Selenium" title="Selenium" width="50px" style="margin: 0 15px; transition: 0.3s;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+</div>
+
+<!-- Hover Neon Azul Cyan via CSS Inline -->
+<style>
+  img[alt] {
+    filter: drop-shadow(0 0 0px #00ffff);
+  }
+  img[alt]:hover {
+    filter: drop-shadow(0 0 15px #00ffff);
+    transform: scale(1.1);
+  }
+</style>
+
+---
+
+## 📊 GitHub Stats
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yspoleta&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" style="display: inline-block;" />
+</div>
