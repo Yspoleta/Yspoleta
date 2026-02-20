@@ -47,10 +47,6 @@ Currently studying test automation and QA best practices.
 
 ---
 
-### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yspoleta&show_icons=true&theme=tokyonight"/>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=00C3FF&section=footer"/>
